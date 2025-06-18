@@ -1,0 +1,2 @@
+"Welcome to git project"
+"Lets us learn github"
